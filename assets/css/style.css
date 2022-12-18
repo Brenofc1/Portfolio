@@ -295,7 +295,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   top: 0;
   width: 130%;
   height: 95%;
-  background: url("../img/hero-bg.jpg") center top no-repeat;
+  background: url("../img/background-main-image.jpg") center top no-repeat;
   z-index: 0;
   border-radius: 0 0 50% 50%;
   transform: translateX(-50%) rotate(0deg);
@@ -308,7 +308,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   width: 130%;
   height: 96%;
   background: #000000;
-  opacity: 0.3;
+  opacity: 100;
   z-index: 0;
   border-radius: 0 0 50% 50%;
   transform: translateX(-50%) translateY(18px) rotate(2deg);
@@ -586,7 +586,7 @@ section {
 }
 .contact .info-box h3 {
   font-size: 20px;
-  color: #666;
+  color: rgb(102, 102, 102);
   font-weight: 700;
   margin: 10px 0;
 }
