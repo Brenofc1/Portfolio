@@ -295,7 +295,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   top: 0;
   width: 130%;
   height: 95%;
-  background: url("../img/background-main-image.jpg") center top no-repeat;
+  background: url("../img/background-index.jpg") center top no-repeat;
   z-index: 0;
   border-radius: 0 0 50% 50%;
   transform: translateX(-50%) rotate(0deg);
@@ -325,7 +325,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   right: 0;
 }
 #hero h2 {
-  color: #656563;
+  color: white;
   margin-bottom: 30px;
   font-size: 48px;
   font-weight: 700;
