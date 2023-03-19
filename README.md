@@ -1,5 +1,5 @@
 # Portfolio
-Portfolio Boot Camp 2022 - The University of Adelaide
+# Portfolio Boot Camp 2022 - The University of Adelaide
 
 # 02 Advanced CSS: Portfolio
 
@@ -26,7 +26,11 @@ Portfolio Boot Camp 2022 - The University of Adelaide
 
 # Then they can be in touch by email or mobile through the information provided.
 
-# The user should also be able to send messages through the page after inserting personal details as name, email, etc.
+# The user should also be able to send message through the page after inserting personal details as name, email, etc.
+
+# In all page should have an icon on the bottom so send the user back to the top.
+
+# The Portfolio must be responsive.
 
 
 
